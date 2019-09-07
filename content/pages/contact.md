@@ -7,7 +7,10 @@ subtitle: Free beer here!
 address: 100 Cats Lane
 phone: '0000000000'
 email: cats@cats.com
-locations: []
+locations:
+  - lat: ''
+    lng: ''
+    mapLink: ''
 meta:
   description: This is a meta description.
   title: Contact Page
