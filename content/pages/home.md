@@ -8,4 +8,4 @@ meta:
   description: 'The cat''s pajamas of beer sites. '
   title: Bier Gato
 ---
-Follow my travels while I search for great beer, cats, and all things wild.
+Follow my travels while I search for great beer, fermented foods, and all things wild.
