@@ -2,10 +2,10 @@
 template: BlogIndex
 slug: blog
 title: Blog
-featuredImage: 'https://ucarecdn.com/b6254577-26bf-4b79-aa9b-f3793e2aebdc/'
-subtitle: Senseless things about beer
+featuredImage: 'https://ucarecdn.com/2510c396-b49c-4232-bfcd-61e4835d9e64/'
+subtitle: Musings on all things fermented.
 meta:
-  description: Senseless things about beer
+  description: 'Musings on all things fermented. '
   title: Blog
 ---
 
