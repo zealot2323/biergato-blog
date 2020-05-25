@@ -7,6 +7,7 @@ excerpt: 'First brew of the quarantine. Going back to the basics with this brew.
 categories:
   - category: Brews
 meta:
+  canonicalLink: 'https://biergato.com/posts/quarantine-saison/'
   description: >-
     First brew of the quarantine. Going back to the basics with this brew.
     Brewed with Admiral Malts Feldblume malt and Mainiacal Yeast Marina
