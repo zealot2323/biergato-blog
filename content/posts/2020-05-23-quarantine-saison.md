@@ -15,6 +15,8 @@ meta:
     farmhouse yeast, among other things. 
   title: Quarantine Saison
 ---
+![Saison](https://ucarecdn.com/f89649b4-e646-419e-8590-3e265f128939/ "Saison")
+
 It's been awhile since I've brewed anything with all of the travel. Since the shelter in place orders started, our travel has stopped and we've returned to the USA. With all the spare time, I've started a number of other fermentation projects including some beer. 
 
 I returned to a much simpler setup since I didn't want to dig out my entire setup from storage. This is the first time I've brewed on a stovetop since probably 2014!
