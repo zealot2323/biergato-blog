@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: Quarantine Saison
-status: Draft
+status: Featured
 date: 2020-05-24T02:26:33.041Z
 featuredImage: 'https://ucarecdn.com/c4a8c6d2-61b9-49fb-af6e-841b2da29255/'
 excerpt: 'First brew of the quarantine. Going back to the basics with this brew. '
